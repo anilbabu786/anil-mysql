@@ -1,0 +1,3 @@
+# anil-mysql
+use hhhh;
+create table empinfo (empno int(10), empname varchar(10));
